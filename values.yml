@@ -1,0 +1,6 @@
+name: "Huck FIN"
+description: |
+  I done found myself [this awful old pile of bits](http://$static_file_server/nb-dc65bd97552846bd9aa2c1dbc18404d6/challenge.pcap) and I just don’t know what to do with none of them. Perhaps you could find a body to help me with this and we could set down for a good ol' time. What do you say about that?
+  
+  MD5: f1f506285956ff742e1f7371d8188e91
+flag: "MCA-9D8B1E24"
